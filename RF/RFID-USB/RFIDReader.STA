@@ -1,0 +1,135 @@
+
+ROM used:   6046/32768 (18%)
+            6046/32768 (18%) including unused fragments
+
+            0.9 Average locations per line
+            6.9 Average locations per statement
+
+RAM used:   236/2048 (12%) at main() level
+            269/2048 (13%) worst case
+
+Stack used: 12 worst case (3 in main + 9 for interrupts)
+Stack size: 31
+
+Lines Stmts  %   Files
+----- ----- ---  -----
+   96    62   7  RFIDReader.c
+   82     0   0  RFIDReader.h
+  775     0   0  C:\Program Files (x86)\PICC\Devices\18F2550.h
+  228     0   0  C:\Program Files (x86)\PICC\Drivers\pic18_usb.h
+  328     0   0  C:\Program Files (x86)\PICC\Drivers\usb_hw_layer.h
+  369     0   0  C:\Program Files (x86)\PICC\Drivers\usb_desc_hid.h
+ 1103     0   0  C:\Program Files (x86)\PICC\Drivers\usb.h
+ 1177   246  28  C:\Program Files (x86)\PICC\Drivers\usb.c
+ 1406   317  36  C:\Program Files (x86)\PICC\Drivers\pic18_usb.c
+  138     0   0  C:\Program Files (x86)\PICC\Drivers\usbn960x.h
+  527   194  22  C:\Program Files (x86)\PICC\Drivers\em4095.c
+  189    60   7  C:\Program Files (x86)\PICC\Drivers\em4102.c
+----- -----
+ 6418   879 Total
+
+Page ROM  %  RAM   Vol Diff  Functions:
+---- --- --- ---   --- ----  ----------
+0     32   0    0             @const727
+0     48   0    0             @const733
+0     48   0    0             @const739
+0     18   0    0             @const742
+0     18   0    0             @const746
+0     58   0    0             @const750
+0     18   0    0             @const753
+0     18   0    0             @const756
+0     34   0    0             @const761
+0     54   0    0             @const765
+0     64   1    4   139  4.3  usb_tbe
+0     36   0    1   145  3.2  usb_detach
+0     34   0    0   136  2.2  usb_attach
+0      6   0    0    16  1.0  usb_init_cs
+0     36   0    1   367  5.2  usb_task
+0    214   2    9  1092  5.4  usb_flush_in
+0    166   1   10   344  6.1  usb_put_packet
+0    198   2    9   914  5.0  usb_flush_out
+0     70   1    6   258  4.6  usb_stall_ep
+0     68   1    6   266  4.6  usb_unstall_ep
+0     86   1    5   373  6.0  usb_endpoint_stalled
+0     22   0    1    94  2.7  usb_set_address
+0    434   4   12  1774 10.4  usb_set_configured
+0     76   1    5   199  3.2  usb_disable_endpoint
+0     22   0    1    99  3.0  usb_disable_endpoints
+0      4   0    0    61  4.0  usb_clear_trn
+0    114   1    2   662  6.8  usb_isr
+0      6   0    0    43  2.0  usb_isr_sof
+0     42   0    0   357  4.2  usb_isr_rst
+0     32   0    0   508  4.0  usb_init_ep0_setup
+0      8   0    0    74  2.8  usb_isr_uerr
+0     10   0    0    82  2.8  usb_isr_uidle
+0     16   0    0   102  3.3  usb_isr_activity
+0     14   0    0   151  3.9  usb_isr_stall
+0      6   0    1    30  1.7  usb_request_send_response
+0      4   0    0    22  1.2  usb_request_stall
+0    202   2    2  3284  9.8  usb_isr_tok_dne
+0      6   0    0    29  1.9  usb_enumerated
+0     40   0    3   255  4.0  usb_token_reset
+0     86   1    3   274  5.9  usb_endpoint_is_valid
+0     24   0    1   158  3.1  usb_isr_tok_in_dne
+0      6   0    1    53  1.9  usb_isr_tok_out_dne
+0     50   0    0   375  6.4  usb_isr_tok_setup_dne
+0    170   1    0  1454  8.3  usb_isr_tkn_setup_StandardDevice
+0    158   1    3   995  7.8  usb_isr_tkn_setup_StandardInterface
+0     94   1    0   753  5.8  usb_isr_tkn_setup_StandardEndpoint
+0     12   0    0   105  3.8  usb_isr_tkn_setup_ClassInterface
+0    292   2    1  1492  8.8  usb_Get_Descriptor
+0     14   0    0    76  1.8  usb_finish_set_address
+0    170   1    4   713  5.8  usb_copy_desc_seg_to_ep
+0     34   0    0  1492  8.8  @goto11594
+0     38   0    0   190  1.7  rf_init
+0     30   0    1   110  2.5  RF_readEdge
+0    358   3    3  1829 11.9  isr_ccp1
+0     34   0    0   396  3.6  @goto11713
+0    104   1    1   409  6.6  isr_ccp2
+0      8   0    0    13  1.0  isr_rtcc
+0     58   0    2   452  4.3  RF_get
+0     32   0    4   125  4.2  RFbuffer_fill
+0     60   0    4   131  4.2  RFbuffer_invert
+0     70   1    2   204  5.3  RFbuffer_getBit
+0     78   1    3   370  7.2  read_4102
+0     42   0    2   204  5.2  header_search_4102
+0    404   3    5  1481 10.7  decode_data_4102
+0     40   0    3             @DIV88
+0     44   0    0             @goto12020
+0     40   0    1             @delay_ms1
+0     94   1    2   396  3.6  usb_debug_task
+0     46   0    0             @const1063
+0     34   0    2             @PSTRINGC_9600_31766_31767
+0     48   0    0             @const1065
+0     30   0    0             @const1066
+0     60   0    0             @const1067
+0    438   4    1  1367  4.8  MAIN
+0     12   0    0             @const1071
+0     14   0    0             @const1072
+0     22   0    0             @const1073
+0     14   0    0             @const1074
+0    108   1    2             @PRINTF_U_9600_31766_31767
+0     12   0    0             @const1079
+ Inline         0             @cinit1
+
+Program metrics:
+    Functions               56
+    Statements              879
+    Comments                2369
+    Volume (V)              50902
+    Difficulty (D)          268.8
+    Effort to implement (E) 13683408
+    Time to implement (T)   211 hours, 10 minutes
+    Est Delivered Bugs (B)  19
+    Cyclomatic Complexity   168
+    Maintainability (MI)    60
+
+ Segment     Used  Free
+-----------  ----  ----
+00000-00002     4  0  
+00004-00006     4  0  
+00008-000B8   178  0  
+000BA-07FFE  5860  26722  
+
+
+

@@ -1,0 +1,35 @@
+[PROJECT]
+Target=RFIDReader.hex
+Processor_Text=PIC18F2550
+CCSVerions=5.015
+Compiler=PCH
+CCSVersion=5.015
+[Target Data]
+FileList=RFIDReader.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\
+[F:\PROJECT\CCSPIC\RFID-USB\RFIDReader]
+Type=4
+[mru-list]
+1=RFIDReader.c
+[Opened Files]
+1=RFIDReader.c
+2=RFIDReader.h
+3=C:\Program Files (x86)\PICC\Drivers\pic18_usb.c
+4=C:\Program Files (x86)\PICC\Drivers\usb.h
+5=C:\Program Files (x86)\PICC\Drivers\usb.c
+6=C:\Program Files (x86)\PICC\Drivers\usb_hw_layer.h
+7=C:\Program Files (x86)\PICC\Drivers\pic18_usb.h
+8=C:\Program Files (x86)\PICC\Drivers\em4095.c
+9=C:\Program Files (x86)\PICC\Drivers\em4102.c
+10=C:\Program Files (x86)\PICC\Devices\18F2550.h
+11=C:\Program Files (x86)\PICC\Drivers\usb_desc_hid.h
+12=
+[RFIDReader.c]
+Type=4
+[ExtraIncludes]
+Count=0
+1=rfidreader=f:\project\ccspic\rfid-usb\common.h
+[Units]
+Count=1
+1=RFIDReader (main)

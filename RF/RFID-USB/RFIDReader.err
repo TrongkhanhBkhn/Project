@@ -1,0 +1,100 @@
+*** Error 6 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 148(112,114): String too long
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 148(2,3): Illegal C character in input file  0x9D
+*** Error 58 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 148(2,3): Expecting a close paren
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(3,4): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(3,4): Illegal C character in input file  0xFF
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(3,4): Illegal C character in input file  0xFF
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(3,4): Illegal C character in input file  0xFF
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(3,4): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(3,4): Illegal C character in input file  0x07
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(3,4): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(3,4): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(3,4): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(3,4): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(3,4): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(3,4): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(3,4): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(3,4): Illegal C character in input file  0xD2
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(9,10): Illegal C character in input file  0xC7
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(9,10): Illegal C character in input file  0xE3
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(9,10): Illegal C character in input file  0x40
+*** Error 48 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(3,4): Expecting a (
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(14,15): Illegal C character in input file  0x10
+*** Error 48 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(13,15): Expecting a (
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(16,17): Illegal C character in input file  0xE4
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(16,17): Illegal C character in input file  0x40
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(18,19): Illegal C character in input file  0x07
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(18,19): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(18,19): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(18,19): Illegal C character in input file  0xB0
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(18,19): Illegal C character in input file  0xD7
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(18,19): Illegal C character in input file  0x01
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(18,19): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(18,19): Illegal C character in input file  0x80
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(18,19): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(18,19): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(18,19): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(18,19): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(18,19): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(18,19): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(18,19): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(18,19): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(18,19): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(18,19): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(18,19): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(18,19): Illegal C character in input file  0xAC
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(18,19): Illegal C character in input file  0xEA
+*** Error 48 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(16,17): Expecting a (
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(24,25): Illegal C character in input file  0x07
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(24,25): Illegal C character in input file  0x40
+*** Error 43 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(24,25): Expecting a declaration
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(27,28): Illegal C character in input file  0x07
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(27,28): Illegal C character in input file  0xD0
+*** Error 48 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(27,28): Expecting a (
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(30,31): Illegal C character in input file  0x07
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(30,31): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(30,31): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(30,31): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(30,31): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(30,31): Illegal C character in input file  0x90
+*** Error 48 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(30,31): Expecting a (
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(33,34): Illegal C character in input file  0x07
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(33,34): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(33,34): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(33,34): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(33,34): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(33,34): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(33,34): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(33,34): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(33,34): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(33,34): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(33,34): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(33,34): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(33,34): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(33,34): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(33,34): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(33,34): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(33,34): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(33,34): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(33,34): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(33,34): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(33,34): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(33,34): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(33,34): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(33,34): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(33,34): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(33,34): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(33,34): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(33,34): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(33,34): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(33,34): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(33,34): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(33,34): Illegal C character in input file  0x00
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(33,34): Illegal C character in input file  0x00
+*** Error 48 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(33,34): Expecting a (
+*** Error 43 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(35,36): Expecting a declaration
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(36,37): Illegal C character in input file  0x50 after \
+*** Error 48 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(36,37): Expecting a (
+*** Error 43 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(51,52): Expecting a declaration
+*** Error 48 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(52,55): Expecting a (
+*** Error 1 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.h" Line 149(56,57): Illegal C character in input file  0x50 after \
